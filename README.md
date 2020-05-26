@@ -74,5 +74,5 @@ npm run dev
 
 Build app for production
 ```cmd
-npm run buildß
+npm run build
 ```
